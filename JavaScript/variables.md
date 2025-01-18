@@ -1,19 +1,24 @@
 ## Variables in JavaScript
 
-Variables store data.
-There are three ways to do so:
+Variables store data.  
+There are three ways to declare variables:
 
-1. let
-   Used for variables that can be reassigned
+1. **let**
 
-2. const
-   Used for variables that cannot be reassigned
+   Used for variables that can be reassigned.
 
-3. var
-   This is no longer common in modern JavaScript - avoid
-   Can be reassigned, but not recommended
+2. **const**
 
-### what this covers:
+   Used for variables that cannot be reassigned.
 
-- Syntax for variables 'let', 'const', and 'var'
+3. **var**
+
+   This is no longer common in modern JavaScript - avoid it.  
+   It can be reassigned, but it's not recommended.
+
+---
+
+### What This Covers:
+
+- Syntax for variables: `let`, `const`, and `var`
 - Differences in reassignment rules
